@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML , CSS, SASS JAVASCRIPT, VANILLA,NODE.JS, REACT, POSTGRESQL**
 
-- 📫 How to reach me **zaki.diop@gicloud.com**
+- 📫 How to reach me **zaki.diop@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
